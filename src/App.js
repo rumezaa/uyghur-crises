@@ -193,7 +193,7 @@ function App() {
       <div className="flex flex-row w-full p-20">
         <div className="flex flex-col relative w-3/5 gap-3">
           <h2 className="font-bold text-3xl">Icon</h2>
-          <h2 className="font-light text-black italic">Hover of Parts of the Image Below to Learn More</h2>
+          <h2 className="font-light text-black italic">Hover on parts of the image below to learn more about each piece of the symbol</h2>
           <img
             src={require("./icon.png")}
             width={700}
